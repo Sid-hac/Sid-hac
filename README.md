@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JourneyJot**
 - 🌱 I’m currently learning **web scraping using puppeteer**
-- 💬 Ask me about **Full-Stack Development: I can help with anything related to web development, both on the frontend (HTML, CSS, JavaScript, React , UI libraries , ) and backend (Node.js, Express, databases, APIs).**
+- 💬 Ask me about **Full-Stack Development: I can help with anything related to web development, both on the frontend (HTML, CSS, JavaScript, React , Next , UI libraries , ) and backend (Node.js, Express, databases, APIs).**
 - 📫 How to reach me **sidengineer.014@gmail.com**
 - 📄 Know about my experiences **Student at IIIT nagpur**
 
