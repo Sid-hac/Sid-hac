@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddhant Siddhant</h1>
-<h3 align="center">Hey, I'm [Your Name]! When I'm not immersed in lines of code, I'm probably sipping coffee ☕, exploring the latest tech trends 🌐, or contributing to open-source projects. </h3>
+<h1 align="center">Hi 👋, I'm Siddhant </h1>
+<h3 align="center">Hey, I'm Siddhant! When I'm not immersed in lines of code, I'm probably sipping coffee ☕, exploring the latest tech trends 🌐, or contributing to open-source projects. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid-hac&label=Profile%20views&color=0e75b6&style=flat" alt="Sid-hac" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sid-hac&theme=" alt="Sid-hac" /></a> </p>
