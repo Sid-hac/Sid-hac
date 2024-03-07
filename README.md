@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhant Siddhant</h1>
 <h3 align="center">Hey, I'm [Your Name]! When I'm not immersed in lines of code, I'm probably sipping coffee ☕, exploring the latest tech trends 🌐, or contributing to open-source projects. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid_hac&label=Profile%20views&color=0e75b6&style=flat" alt="Sid_hac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid-hac&label=Profile%20views&color=0e75b6&style=flat" alt="Sid-hac" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sid_hac&theme=" alt="Sid_hac" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sid-hac&theme=" alt="Sid-hac" /></a> </p>
 
 - 🔭 I’m currently working on **JourneyJot**
 - 🌱 I’m currently learning **web scraping using puppeteer**
@@ -11,7 +11,7 @@
 - 📄 Know about my experiences **Student at IIIT nagpur**
 
 <div> <a href="https://www.linkedin.com/in/Siddhant ." target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Sid_hac" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Sid-hac" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sidd___1729" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:sidengineer.014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -59,20 +59,20 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid_hac&layout=compact&theme=" alt=Sid_hac />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-hac&layout=compact&theme=" alt=Sid-hac />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sid_hac&show_icons=true&locale=en&theme=" alt="Sid_hac" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sid-hac&show_icons=true&locale=en&theme=" alt="Sid-hac" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid_hac&theme=" alt="Sid_hac" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-hac&theme=" alt="Sid-hac" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Sid_hac">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sid_hac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid_hac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid_hac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sid_hac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid_hac&theme=2077" height="180em" />
+<a href="https://github.com/Sid-hac">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sid-hac&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-hac&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-hac&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sid-hac&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-hac&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sid_hac&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sid-hac&theme=default"/>
