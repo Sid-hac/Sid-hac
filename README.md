@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sid-hac&theme=" alt="Sid-hac" /></a> </p>
 
 - 🔭 I’m currently working on **JourneyJot**
-- 🌱 I’m currently learning **How to make apps scalable**
+- 🌱 I’m currently learning **Canvas**
 - 💬 Ask me about **Full-Stack Development: I can help with anything related to web development, both on the frontend (HTML, CSS, JavaScript, React , Next , UI libraries , ) and backend (Node.js, Express, databases, APIs).**
 - 📫 How to reach me **sidengineer.014@gmail.com**
 - 📄 Know about my experiences **Student at IIIT nagpur**
